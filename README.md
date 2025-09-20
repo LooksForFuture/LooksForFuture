@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LooksForFuture
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning deep learning
+- 👀 I’m interested in low level programming and abstract math
+- 🌱 I’m currently learning abstract algebra
 
 <!---
 LooksForFuture/LooksForFuture is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
